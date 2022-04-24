@@ -1,0 +1,12 @@
+Comandos básicos no Terminal
+Windows           Linux 
+-cd               -cd           (Muda de diretorio)
+-cd ..            -cd ..        (Volta uma pasta)
+-dir              -ls           (Listar os repositorios)
+-mkdir            -mkdir        (Criar diretorio)
+-del/rmdir        -rm -rf       (Deletar)
+
+Comandos GIT
+- git init                                                 (Inicia)
+- git add(.,* ou nome do repositorio)                      (Adiciona)
+- git commit                                               (Commita)	
