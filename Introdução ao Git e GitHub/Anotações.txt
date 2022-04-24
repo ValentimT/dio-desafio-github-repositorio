@@ -9,4 +9,7 @@ Windows           Linux
 Comandos GIT
 - git init                                                 (Inicia)
 - git add(.,* ou nome do repositorio)                      (Adiciona)
-- git commit                                               (Commita)	
+- git commit                                               (Commita)
+- git push                                                 (Envia)
+- git clone                                                (Clona)
+- git pull                                                 (Puxa)                                         	
